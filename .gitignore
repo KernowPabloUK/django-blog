@@ -72,6 +72,7 @@ cover/
 *.mo
 
 # Django stuff:
+blog/fixtures/
 
 # Flask stuff:
 instance/
